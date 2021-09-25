@@ -1,0 +1,14 @@
+{
+   "list": [
+      {
+         "name":"OpenRates",
+         "url":"https://github.com/openrates-api",
+         "desc":"A free and open-source API for foreign exchange (forex) rates"
+      },
+      {
+         "name":"SeguroDNS",
+         "url":"https://github.com/segurodns",
+         "desc":"A secure, public DNS service hosted in multiple locations (not active)"
+      }
+   ]
+}

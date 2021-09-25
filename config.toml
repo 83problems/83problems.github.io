@@ -1,4 +1,4 @@
-baseURL = "https://83problems.com/"
+baseURL = "https://83problems.github.io/"
 languageCode = "en-us"
 title = "Because we all have 83 problems"
 theme = "cactus"
